@@ -1,6 +1,8 @@
 # Kinliufook
-Embedded
-
+## 项目整体介绍
+[0B703-金六福.md](https://github.com/WolffyAndy/Kinliufook/blob/master/0B703-%E9%87%91%E5%85%AD%E7%A6%8F.md)
+<br>
+<br>
 ## 一、监控模块
 Wiki： [监控模块](https://github.com/WolffyAndy/Kinliufook/wiki/%E4%B8%80%E3%80%81%E7%9B%91%E6%8E%A7%E6%A8%A1%E5%9D%97)
 <br>
