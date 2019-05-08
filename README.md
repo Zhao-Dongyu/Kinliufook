@@ -12,11 +12,11 @@ Tutorial：[Raspberry MJPG streamer 实现监控系统](https://github.com/Wolff
 ## 二、开门模块
 Wiki：[开门模块](https://github.com/WolffyAndy/Kinliufook/wiki/%E4%BA%8C%E3%80%81%E5%BC%80%E9%97%A8%E6%A8%A1%E5%9D%97)
 <br>
-Tutorial：
+Tutorial：[Raspberry控制开门](https://github.com/WolffyAndy/Kinliufook/wiki/Tutorial-2%EF%BC%9ARaspberry-控制舵机)
 <br>
 
 ## 三、前端模块
 Wiki：[前端模块](https://github.com/WolffyAndy/Kinliufook/wiki/%E4%B8%89%E3%80%81%E5%89%8D%E7%AB%AF%E6%A8%A1%E5%9D%97)
 <br>
-Tutorial：
-<br>
+Tutorial：[Tutorial 3：Raspberry 与前端Android交互](https://github.com/WolffyAndy/Kinliufook/wiki/Tutorial-3%EF%BC%9ARaspberry-%E4%B8%8E%E5%89%8D%E7%AB%AFAndroid%E4%BA%A4%E4%BA%92)
+<br> 
