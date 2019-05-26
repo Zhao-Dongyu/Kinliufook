@@ -20,3 +20,5 @@ Wiki：[前端模块](https://github.com/WolffyAndy/Kinliufook/wiki/%E4%B8%89%E3
 <br>
 Tutorial：[Tutorial 3：Raspberry 与前端Android交互](https://github.com/WolffyAndy/Kinliufook/wiki/Tutorial-3%EF%BC%9ARaspberry-%E4%B8%8E%E5%89%8D%E7%AB%AFAndroid%E4%BA%A4%E4%BA%92)
 <br> 
+简介：WebViewTest文件是前端安卓代码，包括了视频流显示与树莓派进行socket通信
+<br> 
