@@ -22,3 +22,5 @@ Tutorial：[Tutorial 3：Raspberry 与前端Android交互](https://github.com/Wo
 <br> 
 简介：WebViewTest文件是前端安卓代码，包括了视频流显示与树莓派进行socket通信
 <br> 
+
+## [效果展示](https://www.bilibili.com/video/av55879148/)
